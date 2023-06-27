@@ -4,4 +4,4 @@ os.system("git pull")
 
 
 import rxsuasimple
-rxsuasimple.server()
+rxsuasimple.server().main()
